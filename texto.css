@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+.parte1 {
+   color: #ffffff 
+
+}
+
+.cuadrado {
+    width: 300px;
+    height: 100vh;
+    background-color: #193952;
+    
+}
+
+
+.parte2 {
+    color: #193952;
+    padding: 5px;
+}
+
+.uno {
+    color: #565454;
+    height: 30px;
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 5px;
+}
+
+.dos {
+    color: #565454;
+    height: 30px;
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 5px;
+}
+
+.tres {
+    color: #565454;
+    height: 75px;
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 5px;
+}
+
+.fecha {
+    width: 72pc;
+    height: 30px;
+    font-size: 16px;
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 5px;
+    color: #193952;
+}
+
+.Registrar {
+    color: #ffffff;
+    width: 99pt;
+    height: 40px;
+    background-color: #193952;
+    border: 1px solid #183753;
+    border-radius: 5px;
+}
+
+.formulario {
+    margin-top: -715px;
+    margin-left: 350px;
+
+}
+
+.option {
+    width: 72pc;
+    height: 30px;
+    font-size: 16px;
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 5px;
+    color: #193952;
+
+}
+
+.Estado {
+    width: 72pc;
+    height: 30px;
+    font-size: 16px;
+    border: 1px solid rgb(119, 119, 119);
+    border-radius: 5px;
+    color: #193952;
+}
